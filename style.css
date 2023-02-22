@@ -1,0 +1,30 @@
+#paraRoxo {
+    color: purple;
+    font-size: 50px;
+    font-style:normal;
+    /* margin-left: 50px; */
+    padding-left: 20px;
+    background-color: rgb(44, 42, 42);
+    background-size: 13px
+    
+}
+
+p {
+    font-size: 20px;
+}
+
+.acebanana {
+    display: flex;
+    justify-content: center;
+}
+#ace {
+    /* margin-left: 220px; */
+    /* margin-top: 300px; */
+    display:inline-block;
+
+}
+
+
+
+
+
